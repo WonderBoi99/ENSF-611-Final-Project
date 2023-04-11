@@ -3,6 +3,7 @@
 **About:**
 Implemented decision trees, random forest and gradient boosting models to the Bikeshare data and compared their performances with their default parameters. Then, played around with some of their parameters which like max_depth, max_leaf_nodes, n_estimators, max_features, learning rate. Took best model and did more analysis with the best possible model.
 Bikeshare dataset: https://www.scikit- yb.org/en/latest/api/datasets/bikeshare.html
+Scikit-learn models: DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor
 
 **Code is divided into sections:**
 * Dataset Details

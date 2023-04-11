@@ -19,7 +19,7 @@ Scikit-learn models: DecisionTreeRegressor, RandomForestRegressor, GradientBoost
 **Results:**
 * Best Descision Tree model when max_leaf_nodes=100 & max_depth=10
 * Best Random Forest model when n_estimators=50 & max_depth=15
-* Best Gradient Boosting model when random_state=79 & learning_rate=0.6
+* Best Gradient Boosting model when learning_rate=0.6 & max_features=9
 
 **Reflection:**
 * Purpose: wanted to gain more confidence, I wanted to get more practise on tree ML algothrithms and understand better the impact on the ml model when tuning their parameters.

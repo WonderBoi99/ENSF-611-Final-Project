@@ -1,4 +1,4 @@
-# ENSF-611-Final-Project
+# ML-Project
 
 **About:**<br>
 Implemented decision trees, random forest and gradient boosting models to the Bikeshare data and compared their performances with their default parameters. Then, played around with some of their parameters which like max_depth, max_leaf_nodes, n_estimators, max_features, learning rate. Took best model and did more analysis with the best possible model.<br>

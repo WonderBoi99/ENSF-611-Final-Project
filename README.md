@@ -23,6 +23,4 @@ Scikit-learn models: DecisionTreeRegressor, RandomForestRegressor, GradientBoost
 
 **Reflection:**
 * Purpose: wanted to gain more confidence, I wanted to get more practise on tree ML algothrithms and understand better the impact on the ml model when tuning their parameters.
-* No deviations from proposal, any deviations would have taken more time and I did not have a lot of time as me personally was busy with other tasks.
 * Interperted the reasons for how modifying the hyperparameters impacted the model was the most challenging part for me. I found using the model and changing the hyperparametrs fairly easy. I now feel more comfortable with applying ML tree algorithms and feel like I also now have a better understanding on how they work.
-
